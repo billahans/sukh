@@ -10,5 +10,5 @@ printf("multiplication table%d:\n");
 2*i++:
 }
 }
-return 0
+
 
